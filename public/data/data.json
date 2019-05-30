@@ -1,0 +1,82 @@
+[
+  [{
+      "id": 1,
+      "en": "cat",
+      "pl": "kot"
+    },
+    {
+      "id": 2,
+      "en": "dog",
+      "pl": "pies"
+    },
+    {
+      "id": 3,
+      "en": "elephant",
+      "pl": "słoń"
+    }
+  ],
+  [{
+      "id": 1,
+      "en": "hammer",
+      "pl": "młotek"
+    },
+    {
+      "id": 2,
+      "en": "nail",
+      "pl": "gwóźdź"
+    },
+    {
+      "id": 3,
+      "en": "scissors",
+      "pl": "nożyczki"
+    }
+  ],
+  [{
+      "id": 1,
+      "en": "bee",
+      "pl": "pszczoła"
+    },
+    {
+      "id": 2,
+      "en": "fly",
+      "pl": "mucha"
+    },
+    {
+      "id": 3,
+      "en": "beatle",
+      "pl": "żóczek"
+    }
+  ],
+  [{
+      "id": 1,
+      "en": "house",
+      "pl": "dom"
+    },
+    {
+      "id": 2,
+      "en": "home",
+      "pl": "dom rodzinny"
+    },
+    {
+      "id": 3,
+      "en": "wall",
+      "pl": "ściana"
+    }
+  ],
+  [{
+      "id": 1,
+      "en": "table",
+      "pl": "stół"
+    },
+    {
+      "id": 2,
+      "en": "desk",
+      "pl": "biurko"
+    },
+    {
+      "id": 3,
+      "en": "chair",
+      "pl": "krzesło"
+    }
+  ]
+]

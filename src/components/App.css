@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+
+body {
+  padding: 5px;
+}
+
+h2 {
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+button {
+  display: block;
+  min-width: 170px;
+  padding: 5px 10px;
+  text-transform: uppercase;
+  margin: 5px auto 10px;
+  background-color: white;
+  border: 1px solid black;
+  cursor: pointer;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  background-color: #ccc;
+  padding: 5px;
+  max-width: 320px;
+  margin: 0 auto;
+  height: 50vh;
+  overflow: hidden;
+}
+
+li {
+  border: 1px solid black;
+  margin: 10px auto;
+  max-width: 300px;
+}
