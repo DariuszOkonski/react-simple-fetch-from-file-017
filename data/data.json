@@ -1,0 +1,97 @@
+[
+  [{
+      "id": 1,
+      "en": "cat",
+      "pl": "kot"
+    },
+    {
+      "id": 2,
+      "en": "dog",
+      "pl": "pies"
+    },
+    {
+      "id": 3,
+      "en": "elephant",
+      "pl": "słoń"
+    }
+  ],
+  [{
+      "id": 4,
+      "en": "hammer",
+      "pl": "młotek"
+    },
+    {
+      "id": 5,
+      "en": "nail",
+      "pl": "gwóźdź"
+    },
+    {
+      "id": 6,
+      "en": "scissors",
+      "pl": "nożyczki"
+    }
+  ],
+  [{
+      "id": 7,
+      "en": "bee",
+      "pl": "pszczoła"
+    },
+    {
+      "id": 8,
+      "en": "fly",
+      "pl": "mucha"
+    },
+    {
+      "id": 9,
+      "en": "beatle",
+      "pl": "żóczek"
+    },
+    {
+      "id": 10,
+      "en": "house",
+      "pl": "dom"
+    }
+  ],
+  [{
+      "id": 11,
+      "en": "house",
+      "pl": "dom"
+    },
+    {
+      "id": 12,
+      "en": "fly",
+      "pl": "mucha"
+    },
+    {
+      "id": 13,
+      "en": "scissors",
+      "pl": "nożyczki"
+    },
+    {
+      "id": 14,
+      "en": "home",
+      "pl": "dom rodzinny"
+    },
+    {
+      "id": 15,
+      "en": "wall",
+      "pl": "ściana"
+    }
+  ],
+  [{
+      "id": 16,
+      "en": "table",
+      "pl": "stół"
+    },
+    {
+      "id": 17,
+      "en": "desk",
+      "pl": "biurko"
+    },
+    {
+      "id": 18,
+      "en": "chair",
+      "pl": "krzesło"
+    }
+  ]
+]
