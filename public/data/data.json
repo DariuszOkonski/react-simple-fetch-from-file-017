@@ -16,65 +16,80 @@
     }
   ],
   [{
-      "id": 1,
+      "id": 4,
       "en": "hammer",
       "pl": "młotek"
     },
     {
-      "id": 2,
+      "id": 5,
       "en": "nail",
       "pl": "gwóźdź"
     },
     {
-      "id": 3,
+      "id": 6,
       "en": "scissors",
       "pl": "nożyczki"
     }
   ],
   [{
-      "id": 1,
+      "id": 7,
       "en": "bee",
       "pl": "pszczoła"
     },
     {
-      "id": 2,
+      "id": 8,
       "en": "fly",
       "pl": "mucha"
     },
     {
-      "id": 3,
+      "id": 9,
       "en": "beatle",
       "pl": "żóczek"
+    },
+    {
+      "id": 10,
+      "en": "house",
+      "pl": "dom"
     }
   ],
   [{
-      "id": 1,
+      "id": 11,
       "en": "house",
       "pl": "dom"
     },
     {
-      "id": 2,
+      "id": 12,
+      "en": "fly",
+      "pl": "mucha"
+    },
+    {
+      "id": 13,
+      "en": "scissors",
+      "pl": "nożyczki"
+    },
+    {
+      "id": 14,
       "en": "home",
       "pl": "dom rodzinny"
     },
     {
-      "id": 3,
+      "id": 15,
       "en": "wall",
       "pl": "ściana"
     }
   ],
   [{
-      "id": 1,
+      "id": 16,
       "en": "table",
       "pl": "stół"
     },
     {
-      "id": 2,
+      "id": 17,
       "en": "desk",
       "pl": "biurko"
     },
     {
-      "id": 3,
+      "id": 18,
       "en": "chair",
       "pl": "krzesło"
     }
